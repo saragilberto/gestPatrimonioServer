@@ -1,27 +1,27 @@
 {
   "users": [
     {
-      "id": "2",
-      "name": "user",
-      "email": "user",
-      "role": "user"
-    },
-    {
-      "id": "686c",
-      "name": "test",
-      "email": "admin",
-      "role": "admin"
-    },
-    {
-      "id": "0f22",
-      "name": "test",
-      "email": "admin",
-      "role": "admin"
+      "id": "1863",
+      "name": "Júnior Fernando",
+      "email": "teste@gmail.com",
+      "password": "1111"
     },
     {
       "id": "1861",
-      "name": "teste1",
-      "email": "teste1",
+      "name": "Jéssica Jones",
+      "email": "teste@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "1860",
+      "name": "Jeise Silva",
+      "email": "teste@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "1861",
+      "name": "Danilo Pedro",
+      "email": "teste@gmail.com",
       "password": "1111"
     }
   ],
@@ -40,7 +40,7 @@
     },
     {
       "id": "bcb1",
-      "qrcode": "",
+      "qrcode": "0002",
       "name": "Monitor",
       "price": "500",
       "sector": "Administrativo",
@@ -52,11 +52,11 @@
     },
     {
       "id": "afee",
-      "qrcode": "000050",
+      "qrcode": "0003",
       "name": "Cadeira",
       "price": "400",
       "sector": "Comercial",
-      "date_register": "",
+      "date_register": "21/01/2019",
       "date_purchase": "02/01/2020",
       "brand": "Genérica",
       "purchase_site": "Site",
@@ -66,12 +66,12 @@
     {
       "id": "a7b0",
       "qrcode": "000050",
-      "name": "Teste3",
+      "name": "Mesa",
       "price": "1111",
-      "sector": "",
-      "date_register": "",
+      "sector": "Administrativo",
+      "date_register": "01/01/2021",
       "date_purchase": "01/01/2021",
-      "brand": "Teste",
+      "brand": "Genérico",
       "purchase_site": "Teste",
       "warranty": "Sim",
       "image": ""
@@ -80,7 +80,7 @@
   "sectors": [
     {
       "id": "eb9c",
-      "name": "Administração"
+      "name": "Administrativo"
     },
     {
       "id": "b7e4",
